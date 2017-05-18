@@ -1,0 +1,2 @@
+call example: 1.py C:/task1/Test_Music/ -d -g 4
+todo: num track and ganres
